@@ -1,0 +1,2 @@
+.Add__todo{display:flex;flex-direction:column;align-items:center;margin-top:100px}.Add__todo,button,input,select{font-size:25px}.form{box-sizing:border-box;height:100px}.form__name{width:450px}.form__title{margin:30px}.warningName{color:red}.table{display:flex;flex-direction:row;width:100%;text-align:center}.email,.name,.status,.task{border:1px solid #000;margin:1px;background-color:#fffeac}.email,.name{width:20%}.task{width:50%}.status{width:10%}ul{width:100%;margin:0;padding:0}li{list-style:none}
+/*# sourceMappingURL=main.2654efa7.chunk.css.map */
